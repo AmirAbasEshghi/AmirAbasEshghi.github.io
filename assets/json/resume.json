@@ -22,28 +22,28 @@
       }
     ]
   },
-  "work": [
-    {
-      "name": "",
-      "position": "",
-      "url": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [""]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "",
-      "position": "",
-      "url": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [""]
-    }
-  ],
+  // "work": [
+  //   {
+  //     "name": "",
+  //     "position": "",
+  //     "url": "",
+  //     "startDate": "",
+  //     "endDate": "",
+  //     "summary": "",
+  //     "highlights": [""]
+  //   }
+  // ],
+  // "volunteer": [
+  //   {
+  //     "organization": "",
+  //     "position": "",
+  //     "url": "",
+  //     "startDate": "",
+  //     "endDate": "",
+  //     "summary": "",
+  //     "highlights": [""]
+  //   }
+  // ],
   "education": [
     {
       "institution": ["Iran University of Sience and Technology"],
@@ -57,59 +57,59 @@
       "courses": ["Programming"]
     }
   ],
-  "awards": [
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "url": "",
-      "summary": ""
-    }
-  ],
-  "certificates": [
-    {
-      "name": "",
-      "date": "",
-      "issuer": "",
-      "url": "",
-      "icon": ""
-    },
-    {
-      "name": "",
-      "date": "",
-      "issuer": "",
-      "url": "",
-      "icon": ""
-    },
-    {
-      "name": "",
-      "date": "",
-      "issuer": "",
-      "url": "",
-      "icon": ""
-    },
-    {
-      "name": "",
-      "date": "",
-      "issuer": "",
-      "url": "",
-      "icon": ""
-    },
-    {
-      "name": "",
-      "date": "",
-      "issuer": "",
-      "url": "",
-      "icon": ""
-    },
-    {
-      "name": "",
-      "date": "",
-      "issuer": "",
-      "url": "",
-      "icon": ""
-    }
-  ],
+  // "awards": [
+  //   {
+  //     "title": "",
+  //     "date": "",
+  //     "awarder": "",
+  //     "url": "",
+  //     "summary": ""
+  //   }
+  // ],
+  // "certificates": [
+  //   {
+  //     "name": "",
+  //     "date": "",
+  //     "issuer": "",
+  //     "url": "",
+  //     "icon": ""
+  //   },
+  //   {
+  //     "name": "",
+  //     "date": "",
+  //     "issuer": "",
+  //     "url": "",
+  //     "icon": ""
+  //   },
+  //   {
+  //     "name": "",
+  //     "date": "",
+  //     "issuer": "",
+  //     "url": "",
+  //     "icon": ""
+  //   },
+  //   {
+  //     "name": "",
+  //     "date": "",
+  //     "issuer": "",
+  //     "url": "",
+  //     "icon": ""
+  //   },
+  //   {
+  //     "name": "",
+  //     "date": "",
+  //     "issuer": "",
+  //     "url": "",
+  //     "icon": ""
+  //   },
+  //   {
+  //     "name": "",
+  //     "date": "",
+  //     "issuer": "",
+  //     "url": "",
+  //     "icon": ""
+  //   }
+  // ],
   "publications": [
     {
       "name": "General Math1 707",
@@ -125,29 +125,29 @@
       "url": "https://www.amazon.com/Fundamentals-Physics-David-Halliday",
       "summary": ""
     },
-    {
-      "name": "",
-      "publisher": "",
-      "releaseDate": "",
-      "url": "",
-      "summary": ""
-    }
+    // {
+    //   "name": "",
+    //   "publisher": "",
+    //   "releaseDate": "",
+    //   "url": "",
+    //   "summary": ""
+    // }
   ],
-  "skills": [
-    {
-      "name": "Programming",
-      "level": "Learner",
-      "icon": "",
-      "keywords": [
-        "C",
-        "C++",
-        "",
-        "",
-        "",
-        ""
-      ]
-    }
-  ],
+  // "skills": [
+  //   {
+  //     "name": "Programming",
+  //     "level": "Learner",
+  //     "icon": "",
+  //     "keywords": [
+  //       "C",
+  //       "C++",
+  //       "",
+  //       "",
+  //       "",
+  //       ""
+  //     ]
+  //   }
+  // ],
   "languages": [
     {
       "language": "Persian",
@@ -160,36 +160,36 @@
       "icon": ""
     }
   ],
-  "interests": [
-    {
-      "name": "",
-      "icon": "",
-      "keywords": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "",
-      "icon": "",
-      "reference": ""
-    },
-    {
-      "name": "",
-      "icon": "",
-      "reference": ""
-    }
-  ],
+  // "interests": [
+  //   {
+  //     "name": "",
+  //     "icon": "",
+  //     "keywords": [
+  //       "",
+  //       "",
+  //       "",
+  //       "",
+  //       "",
+  //       ""
+  //     ]
+  //   }
+  // ],
+  // "references": [
+  //   {
+  //     "name": "",
+  //     "icon": "",
+  //     "reference": ""
+  //   },
+  //   {
+  //     "name": "",
+  //     "icon": "",
+  //     "reference": ""
+  //   }
+  // ],
   "projects": [
     {
       "name": "Reversi Game",
-      "summary": "Reversi, also known as Othello, is a strategy board game for two players played on an 8x8 uncheckered board. The game uses 64 identical game pieces, called disks, which are light on one side and dark on the other. Players take turns placing one disk on an empty square, with their assigned color facing up. When a player places a disk on the board, any disks of the opponent's color that are in a straight line and bounded by the disk just placed and another disk of the current player's color are turned over to the current player's color. The object of the game is to have the majority of disks turned to display your color when the last playable empty square is filled. Reversi was most recently marketed by Mattel under the trademark Othello. The game gained considerable popularity in England at the end of the nineteenth century and was patented in Japan in 1971 by Goro Hasegawa. The name Othello was selected by Hasegawa as a reference to the Shakespearean play Othello, the Moor of Venice, and the green color of the board is inspired by the image of the general Othello, valiantly leading his battle in a green field.",
+      "summary": "Reversi, also known as Othello, is a strategy board game for two players played on an 8x8 uncheckered board with 64 disks. Players place disks with their assigned color facing up, and if it creates a straight line with the opponent's disks between two of the player's disks, those opponent disks are turned over. The goal is to have the majority of disks displaying your color when the board is full. Reversi was patented in Japan in 1971 and gained popularity in England in the late 1800s. It was marketed by Mattel as Othello, inspired by the Shakespearean play and the character Othello's association with green battlefields.",
       "highlights": ["Othello Game"],
       "startDate": "2023-12-29",
       "endDate": "",
