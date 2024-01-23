@@ -2,25 +2,14 @@
   "basics": {
     "name": "AmirAbas Eshghi",
     "label": "Student",
-    "image": "",
     "email": "amir_eshghi84@comp.iust.ac.ir",
-    "phone": "",
     "url": "https://AmirAbasEshghi.github.io",
     "summary": "I was born in Neyshabour , a city in Khorasan Razavi . I am 19 years old . I am a student in the Iran University of Sience and Technology . ",
     "location": {
-      "address": "",
-      "postalCode": "",
       "city": "Tehran",
       "countryCode": "Iran",
       "region": "Tehran"
-    },
-    "profiles": [
-      {
-        "network": "",
-        "username": "",
-        "url": ""
-      }
-    ]
+    }
   },
 
   "education": [
@@ -32,7 +21,6 @@
       "studyType": "BA (Bachelor’s degree)",
       "startDate": "2023-09-24",
       "endDate": "Continuie...",
-      "score": "",
       "courses": ["Programming"]
     }
   ],
@@ -58,12 +46,10 @@
     {
       "language": "Persian",
       "fluency": "Native speaker",
-      "icon": ""
     },
     {
       "language": "English",
       "fluency": "Fluent",
-      "icon": ""
     }
   ],
   "interests": [
@@ -83,9 +69,7 @@
       "name": "Reversi Game",
       "summary": "Reversi, also known as Othello, is a strategy board game for two players played on an 8x8 uncheckered board with 64 disks. Players place disks with their assigned color facing up, and if it creates a straight line with the opponent's disks between two of the player's disks, those opponent disks are turned over. The goal is to have the majority of disks displaying your color when the board is full. Reversi was patented in Japan in 1971 and gained popularity in England in the late 1800s. It was marketed by Mattel as Othello, inspired by the Shakespearean play and the character Othello's association with green battlefields.",
       "highlights": ["Othello Game"],
-      "startDate": "2023-12-29",
-      "endDate": "",
-      "url": ""
+      "startDate": "2023-12-29"
     }
   ]
 }
