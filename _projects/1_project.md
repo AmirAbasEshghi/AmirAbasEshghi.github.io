@@ -65,8 +65,7 @@ Mobile app development: Android, iOS, etc.<br />
 Web development: HTML, CSS, JavaScript, etc.<br />
 Embedded systems: C, C++, Python, etc.<br />
 
-
-
+</div>
 
 Benefits:
 

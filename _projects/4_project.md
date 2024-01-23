@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: project 2
+description: DIY Hovercraft
 img:
 importance: 3
 category: fun
