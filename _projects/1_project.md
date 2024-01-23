@@ -51,19 +51,21 @@ Features:
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    </div>
-</div>
 
-</p>
-Technologies:
-Microcontrollers: Arduino, Raspberry Pi, etc.
-Sensors: Temperature, humidity, motion, light, etc.
-Actuators: Relays, motors, LEDs, etc.
-Communication protocols: Wi-Fi, Bluetooth, Zigbee, Z-Wave, etc.
-Mobile app development: Android, iOS, etc.
-Web development: HTML, CSS, JavaScript, etc.
-Embedded systems: C, C++, Python, etc.
-</p>
+
+<br />
+
+
+Technologies:<br />
+Microcontrollers: Arduino, Raspberry Pi, etc.<br />
+Sensors: Temperature, humidity, motion, light, etc.<br />
+Actuators: Relays, motors, LEDs, etc.<br />
+Communication protocols: Wi-Fi, Bluetooth, Zigbee, Z-Wave, etc.<br />
+Mobile app development: Android, iOS, etc.<br />
+Web development: HTML, CSS, JavaScript, etc.<br />
+Embedded systems: C, C++, Python, etc.<br />
+
+
 
 
 Benefits:
