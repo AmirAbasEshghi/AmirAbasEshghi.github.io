@@ -19,4 +19,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello, I'm `Amir Abas Eshghi`. I have 1 years of experience programming and I specialize in it and making videos . I'm passionate about exercise and watching movies and I'm looking to expand my knowledge and skills to better serve my clients and team.
+Hello, I'm `Amir Abas Eshghi`. I have `1 years` of experience programming and I specialize in `programming` and `making videos` . I'm passionate about `exercise` and `watching movies` and I'm looking to expand my knowledge and skills to better serve my clients and team.
