@@ -8,18 +8,8 @@ category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+This project involves designing and implementing a system that allows users to control various aspects of their home, such as lighting, temperature, and security, using a mobile app or web interface. 
+The system would use a combination of hardware (e.g. microcontrollers, sensors, and actuators) and software (e.g. embedded systems, networking, and mobile app development) to create a fully automated home.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -33,7 +23,14 @@ To give your project a background in the portfolio page, just add the img tag to
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    
+Features:
+
+Control lighting: Users can turn on/off and dim/brighten lights in different rooms of the house.
+Control temperature: Users can adjust the temperature in different rooms of the house using a smart thermostat.
+Control security: Users can monitor and control access to their home using smart locks and security cameras.
+Automation: The system can be programmed to perform certain actions automatically based on user preferences, such as turning off all lights and appliances when the user leaves the house.
+
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -41,12 +38,8 @@ To give your project a background in the portfolio page, just add the img tag to
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Good example for smart Home Automation System
 </div>
-
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -57,25 +50,27 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    You can also have artistically styled
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+Technologies:
+
+Microcontrollers: Arduino, Raspberry Pi, etc.
+Sensors: Temperature, humidity, motion, light, etc.
+Actuators: Relays, motors, LEDs, etc.
+Communication protocols: Wi-Fi, Bluetooth, Zigbee, Z-Wave, etc.
+Mobile app development: Android, iOS, etc.
+Web development: HTML, CSS, JavaScript, etc.
+Embedded systems: C, C++, Python, etc.
+
+
+Benefits:
+
+Energy savings: By automating lighting and temperature control, users can save energy and reduce their utility bills.
+Convenience: Users can control their home appliances and systems remotely, making it easier to manage their home.
+Security: Users can monitor their home and control access remotely, improving their home security.
+Learning: Students can gain hands-on experience with various hardware and software technologies, as well as learn about system integration and automation.
 
 {% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
 
 {% endraw %}
