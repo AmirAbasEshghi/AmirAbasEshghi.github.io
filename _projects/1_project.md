@@ -24,7 +24,6 @@ The system would use a combination of hardware (e.g. microcontrollers, sensors, 
         {% include figure.liquid path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
 
 
 Features:
@@ -36,6 +35,8 @@ Features:
 3. Control security: Users can monitor and control access to their home using smart locks and security cameras.
 
 4. Automation: The system can be programmed to perform certain actions automatically based on user preferences, such as turning off all lights and appliances when the user leaves the house.
+
+</div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -54,7 +55,6 @@ Features:
         {% include figure.liquid path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
 
 Technologies:
 
@@ -65,6 +65,8 @@ Communication protocols: Wi-Fi, Bluetooth, Zigbee, Z-Wave, etc.
 Mobile app development: Android, iOS, etc.
 Web development: HTML, CSS, JavaScript, etc.
 Embedded systems: C, C++, Python, etc.
+
+
 
 
 Benefits:
