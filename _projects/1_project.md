@@ -57,7 +57,6 @@ Features:
 </div>
 
 Technologies:
-
 Microcontrollers: Arduino, Raspberry Pi, etc.
 Sensors: Temperature, humidity, motion, light, etc.
 Actuators: Relays, motors, LEDs, etc.
@@ -68,13 +67,15 @@ Embedded systems: C, C++, Python, etc.
 
 
 
-
 Benefits:
 
-Energy savings: By automating lighting and temperature control, users can save energy and reduce their utility bills.
-Convenience: Users can control their home appliances and systems remotely, making it easier to manage their home.
-Security: Users can monitor their home and control access remotely, improving their home security.
-Learning: Students can gain hands-on experience with various hardware and software technologies, as well as learn about system integration and automation.
+1. Energy savings: By automating lighting and temperature control, users can save energy and reduce their utility bills.
+
+2. Convenience: Users can control their home appliances and systems remotely, making it easier to manage their home.
+
+3. Security: Users can monitor their home and control access remotely, improving their home security.
+
+4. Learning: Students can gain hands-on experience with various hardware and software technologies, as well as learn about system integration and automation.
 
 {% raw %}
 
