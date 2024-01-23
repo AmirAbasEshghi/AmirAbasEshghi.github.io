@@ -22,28 +22,7 @@
       }
     ]
   },
-  // "work": [
-  //   {
-  //     "name": "",
-  //     "position": "",
-  //     "url": "",
-  //     "startDate": "",
-  //     "endDate": "",
-  //     "summary": "",
-  //     "highlights": [""]
-  //   }
-  // ],
-  // "volunteer": [
-  //   {
-  //     "organization": "",
-  //     "position": "",
-  //     "url": "",
-  //     "startDate": "",
-  //     "endDate": "",
-  //     "summary": "",
-  //     "highlights": [""]
-  //   }
-  // ],
+
   "education": [
     {
       "institution": ["Iran University of Sience and Technology"],
@@ -57,59 +36,7 @@
       "courses": ["Programming"]
     }
   ],
-  // "awards": [
-  //   {
-  //     "title": "",
-  //     "date": "",
-  //     "awarder": "",
-  //     "url": "",
-  //     "summary": ""
-  //   }
-  // ],
-  // "certificates": [
-  //   {
-  //     "name": "",
-  //     "date": "",
-  //     "issuer": "",
-  //     "url": "",
-  //     "icon": ""
-  //   },
-  //   {
-  //     "name": "",
-  //     "date": "",
-  //     "issuer": "",
-  //     "url": "",
-  //     "icon": ""
-  //   },
-  //   {
-  //     "name": "",
-  //     "date": "",
-  //     "issuer": "",
-  //     "url": "",
-  //     "icon": ""
-  //   },
-  //   {
-  //     "name": "",
-  //     "date": "",
-  //     "issuer": "",
-  //     "url": "",
-  //     "icon": ""
-  //   },
-  //   {
-  //     "name": "",
-  //     "date": "",
-  //     "issuer": "",
-  //     "url": "",
-  //     "icon": ""
-  //   },
-  //   {
-  //     "name": "",
-  //     "date": "",
-  //     "issuer": "",
-  //     "url": "",
-  //     "icon": ""
-  //   }
-  // ],
+  
   "publications": [
     {
       "name": "General Math1 707",
@@ -124,30 +51,9 @@
       "releaseDate": "2013-10-23",
       "url": "https://www.amazon.com/Fundamentals-Physics-David-Halliday",
       "summary": ""
-    },
-    // {
-    //   "name": "",
-    //   "publisher": "",
-    //   "releaseDate": "",
-    //   "url": "",
-    //   "summary": ""
-    // }
+    }
   ],
-  // "skills": [
-  //   {
-  //     "name": "Programming",
-  //     "level": "Learner",
-  //     "icon": "",
-  //     "keywords": [
-  //       "C",
-  //       "C++",
-  //       "",
-  //       "",
-  //       "",
-  //       ""
-  //     ]
-  //   }
-  // ],
+  
   "languages": [
     {
       "language": "Persian",
@@ -160,32 +66,18 @@
       "icon": ""
     }
   ],
-  // "interests": [
-  //   {
-  //     "name": "",
-  //     "icon": "",
-  //     "keywords": [
-  //       "",
-  //       "",
-  //       "",
-  //       "",
-  //       "",
-  //       ""
-  //     ]
-  //   }
-  // ],
-  // "references": [
-  //   {
-  //     "name": "",
-  //     "icon": "",
-  //     "reference": ""
-  //   },
-  //   {
-  //     "name": "",
-  //     "icon": "",
-  //     "reference": ""
-  //   }
-  // ],
+  "interests": [
+    {
+      "name": "Exercise",
+      "keywords": [
+        "Football",
+        "Voleyball",
+        "Hapkido",
+        "Boxing"
+      ]
+    }
+  ],
+  
   "projects": [
     {
       "name": "Reversi Game",
