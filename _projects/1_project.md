@@ -24,6 +24,7 @@ The system would use a combination of hardware (e.g. microcontrollers, sensors, 
         {% include figure.liquid path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+<div class="caption">
 
 
 Features:
@@ -54,6 +55,7 @@ Features:
         {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+<div class="caption">
 
 Technologies:
 
