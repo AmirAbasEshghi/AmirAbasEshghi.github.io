@@ -2,7 +2,7 @@
 layout: page
 title: project 2
 description: DIY Hovercraft
-img: assets/img/Craft.jpg
+img: assets/img/dry.jpg
 importance: 2
 category: work
 giscus_comments: true

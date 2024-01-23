@@ -64,6 +64,9 @@ Communication protocols: Wi-Fi, Bluetooth, Zigbee, Z-Wave, etc.<br />
 Mobile app development: Android, iOS, etc.<br />
 Web development: HTML, CSS, JavaScript, etc.<br />
 Embedded systems: C, C++, Python, etc.<br />
+<br />
+<br />
+<br />
 
 </div>
 
