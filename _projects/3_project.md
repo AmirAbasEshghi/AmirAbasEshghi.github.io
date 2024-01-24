@@ -1,9 +1,9 @@
 ---
 layout: page
 title: project 2
-description: DIY Hovercraft
+description: Othello Game
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+redirect: 
 importance: 3
 category: work
 ---
