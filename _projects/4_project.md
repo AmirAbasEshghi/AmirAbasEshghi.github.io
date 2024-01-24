@@ -11,7 +11,7 @@ category: fun
 
 
 The game was most recently marketed by `Mattel` under the trademark `Othello`, and it was invented in 1883 by either of two Englishmen, Lewis Waterman or John W. Mollett. The game gained considerable popularity in England at the end of the nineteenth century. The modern version of the game, marketed and recognized as Othello, was patented in Japan in 1971 by Goro Hasegawa and is used in international tournaments. The name was selected by `Hasegawa` as a reference to the Shakespearean play `Othello`, the Moor of Venice, referring to the conflict between the Moor Othello and Iago, and more controversially, to the unfolding drama between Othello, who is black, and Desdemona, who is white. The goal of the game is to have the majority of disks turned to display your color when the last playable empty square is filled.
-This is a simple implementation of the game of Othello (also known as Reversi).
+This is a simple implementation of the game of `Othello` (also known as `Reversi`).
 
 
 <div class="row">
