@@ -1,24 +1,18 @@
 ---
 layout: page
 title: project 2
-description: DIY Hovercraft
-img:
+description: Othello Game
+img: assets/img/othello.jpg
 importance: 3
 category: fun
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Othello is a strategy board game played by two players on an 8x8 uncheckered board. The game consists of 64 identical game pieces called disks, which are light on one side and dark on the other. Players take turns placing disks on the board with their assigned color facing up. The objective of the game is to have the majority of disks turned to display your color when the last playable empty square is filled.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+The game was most recently marketed by Mattel under the trademark Othello, and it was invented in 1883 by either of two Englishmen, Lewis Waterman or John W. Mollett. The game gained considerable popularity in England at the end of the nineteenth century. The modern version of the game, marketed and recognized as Othello, was patented in Japan in 1971 by Goro Hasegawa and is used in international tournaments. The name was selected by Hasegawa as a reference to the Shakespearean play Othello, the Moor of Venice, referring to the conflict between the Moor Othello and Iago, and more controversially, to the unfolding drama between Othello, who is black, and Desdemona, who is white. The goal of the game is to have the majority of disks turned to display your color when the last playable empty square is filled.
+This is a simple implementation of the game of Othello (also known as Reversi).
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -43,38 +37,5 @@ To give your project a background in the portfolio page, just add the img tag to
     This image can also have a caption. It's like magic.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
+You can play this game [here](https://www.eothello.com/)
 {% endraw %}
