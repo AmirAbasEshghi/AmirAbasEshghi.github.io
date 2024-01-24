@@ -79,7 +79,3 @@ Benefits:
 3. Security: Users can monitor their home and control access remotely, improving their home security.
 
 4. Learning: Students can gain hands-on experience with various hardware and software technologies, as well as learn about system integration and automation.
-
-{% raw %}
-
-{% endraw %}
