@@ -9,7 +9,7 @@ category: fun
 
 A web-based personal `task manager` application that allows users to track and manage their daily tasks, set deadlines, and mark tasks as completed. <br />
 The application should have user `authentication` and `authorization`, so users can sign up, sign in, and have their own personalized task lists. <br />
-Users should also be able to categorize tasks, set priorities, and receive notifications for approaching deadlines. <br />
+Users should also be able to `categorize tasks`, `set priorities`, and `receive notifications` for approaching deadlines. <br />
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -20,7 +20,7 @@ Users should also be able to categorize tasks, set priorities, and receive notif
     </div>
 </div>
 
-Key Features:
+`Key Features` :
 1. User authentication and authorization
 2. Task creation, editing, and deletion
 3. Task categorization and prioritization
@@ -36,4 +36,4 @@ Key Features:
     A good example of planners that make you interested in planning for your day.
 </div>
 
-This can help you plan for your day and don't forget your works that you want to do.
+This can help you `plan` for your day and `don't forget` your works that you want to do.
