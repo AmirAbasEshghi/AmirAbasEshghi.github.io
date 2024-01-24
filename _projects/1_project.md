@@ -51,7 +51,7 @@ The system would use a combination of `hardware` (e.g. microcontrollers, sensors
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-
+</div>
 
 <br />
 
@@ -68,7 +68,6 @@ The system would use a combination of `hardware` (e.g. microcontrollers, sensors
 <br />
 <br />
 
-</div>
 
 `Benefits`:
 
